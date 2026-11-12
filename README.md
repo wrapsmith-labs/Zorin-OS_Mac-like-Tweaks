@@ -1,4 +1,4 @@
-# Zorin-OS_Mac-like-Tweaks
+# Zorin Mac Setup
 
 A one-script installer that makes [Zorin OS](https://zorin.com/os/) look and feel more like macOS. Built with older Intel MacBook Pros in mind, but the theming parts work on any Zorin machine.
 
@@ -26,8 +26,8 @@ A one-script installer that makes [Zorin OS](https://zorin.com/os/) look and fee
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/zorin-mac-setup.git
-cd zorin-mac-setup
+git clone https://github.com/wrapsmith-labs/Zorin-OS_Mac-like-Tweaks.git
+cd Zorin-OS_Mac-like-Tweaks
 chmod +x zorin-mac-setup.sh
 ./zorin-mac-setup.sh
 ```
